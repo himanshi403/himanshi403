@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshi</h1>
 
-<h3 align="center">Software Developer | Learning Java | React & Node.js Developer | Problem Solver</h3>
+<h3 align="center">Software Developer | Java | React & Node.js | Problem Solver</h3>
 
 ---
 
